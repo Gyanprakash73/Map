@@ -3,8 +3,9 @@ Company Assessment Task
 
 Add your google map api key into AndroidManifest file under metadata under value
 
-    Check this picture
-    ![Screenshot (67)_LI](https://user-images.githubusercontent.com/51233027/189490684-e3442ef5-7a77-4c9b-9443-257b0d785fee.jpg)
+Check this picture
+![Screenshot (67)_LI](https://user-images.githubusercontent.com/51233027/189490832-de80134a-cc15-400a-9f38-f2b0111c2383.jpg)
+
 
 
 
